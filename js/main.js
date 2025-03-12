@@ -76,7 +76,7 @@ const changeLanguage = (language) => {
     subtitleAbout.innerHTML = "ce que j'aime / fais";
     knowMoreAbout.innerHTML = "En savoir plus >";
     contactTitle.innerHTML = "Contactez moi";
-    aboutKnowMoreDescription.innerHTML = "Actuellement étudiant en première année au cursus PGE de l'école Epitech sur le campus de Lyon, j'ai décidé de suivre cette formation qui permet un apprentissage par soi-même, une organisation autonome de son emploi du temps et des projets en groupe.</br>De plus, je suis très intéressé par le développement web que j'ai découvert en dehors du cadre de mes études au collège, j'aime la créativité et le travail en groupe que ce domaine m'apporte.";
+    aboutKnowMoreDescription.innerHTML = "I am passionate about web development, a field I discovered independently. I enjoy the creativity it offers and the collaborative nature of building digital solutions. I thrive on self-learning, exploring new technologies, and working on projects that challenge me to grow. Organizing my own schedule and working in teams are aspects I particularly value, as they allow me to develop both technical and problem-solving skills.";
     subtitleWorks.innerHTML = "mon portfolio / </br>mes sites";
   } else {
     descriptionHero.innerHTML = "passionate about web/frontend";
